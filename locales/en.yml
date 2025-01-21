@@ -1,5 +1,6 @@
 en:
   theme_metadata:
-    description: ''
+    description: "Automatically redirects users without a valid subscription group to the subscription page."
     settings:
-      example_setting: A description of a setting.
+    settings:
+      subscription_groups: "Specify the groups that should have subscription-based access."

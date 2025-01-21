@@ -1,2 +1,3 @@
-example_setting:
-  default: true
+subscription_groups:
+  type: list
+  default: ""
